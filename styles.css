@@ -1,4 +1,40 @@
-* {
-    box-sizing: border-box;
+* .p1{
+    color: yellow;
 }
+
+.p2{
+    color: yellowgreen;
+}
+
+.p3{
+    color: lightblue;
+}
+
+.border1{
+    border: orange solid ;
+    background-color: bisque;
+    height: 80px;
+}
+
+h1{
+    background-color: pink;
+    color: white;
+}
+
+html{
+    background-color: gray;
+}
+
+footer{
+    color: white;
+}
+
+.aea{
+    color: white;
+}
+
+
+
+
+
 
