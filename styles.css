@@ -13,7 +13,7 @@
 .border1{
     border: orange solid ;
     background-color: whitesmoke;
-    height: 80px;
+    height: 80 px;
 }
 
 h1{
@@ -31,6 +31,9 @@ footer{
 
 .aea{
     color: white;
+}
+.h2{
+    
 }
 
 
